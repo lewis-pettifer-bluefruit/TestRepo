@@ -1,0 +1,162 @@
+[
+  {
+    "UserName": "lewis.pettifer@bluefruit.co.uk",
+    "TimeStamp": "2022-08-15T08:41:59.0562478+00:00",
+    "workItem": {
+      "Id": 1,
+      "Title": "Test card",
+      "Content": "",
+      "Status": "Open",
+      "Effort": 0,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2022-08-15T08:38:36.5926304+00:00",
+        "EndDate": "2022-08-29T08:38:36.5926708+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [],
+      "Comments": [],
+      "Index": 0,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [],
+      "TaskChecklist": {},
+      "PullRequestNumber": 0,
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1660552909,
+          "WorkStateId": "Open"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "lewis.pettifer@bluefruit.co.uk",
+    "TimeStamp": "2022-08-15T08:42:45.9617079+00:00",
+    "workItem": {
+      "Id": 1,
+      "Title": "Test card",
+      "Content": "",
+      "Status": "In Progress",
+      "Effort": 0,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2022-08-15T08:38:36.5926304+00:00",
+        "EndDate": "2022-08-29T08:38:36.5926708+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [],
+      "Comments": [],
+      "Index": 0,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [],
+      "TaskChecklist": {},
+      "PullRequestNumber": 0,
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1660552909,
+          "WorkStateId": "Open"
+        },
+        {
+          "EntryTime": 1660552965,
+          "WorkStateId": "In Progress"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "lewis.pettifer@bluefruit.co.uk",
+    "TimeStamp": "2022-08-15T08:44:48.3498049+00:00",
+    "workItem": {
+      "Id": 1,
+      "Title": "Test card",
+      "Content": "",
+      "Status": "Open",
+      "Effort": 0,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2022-08-15T08:38:36.5926304+00:00",
+        "EndDate": "2022-08-29T08:38:36.5926708+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [],
+      "Comments": [],
+      "Index": 0,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [],
+      "TaskChecklist": {},
+      "PullRequestNumber": 0,
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1660552909,
+          "WorkStateId": "Open"
+        },
+        {
+          "EntryTime": 1660552965,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1660553088,
+          "WorkStateId": "Open"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "lewis.pettifer@bluefruit.co.uk",
+    "TimeStamp": "2022-08-15T08:44:56.5717817+00:00",
+    "workItem": {
+      "Id": 1,
+      "Title": "Test card",
+      "Content": "\u003Cp\u003Eedit\u003C/p\u003E",
+      "Status": "Open",
+      "Effort": 0,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2022-08-15T08:38:36.5926304+00:00",
+        "EndDate": "2022-08-29T08:38:36.5926708+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [],
+      "Comments": [],
+      "Index": 0,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [],
+      "TaskChecklist": {},
+      "PullRequestNumber": 0,
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1660552909,
+          "WorkStateId": "Open"
+        },
+        {
+          "EntryTime": 1660552965,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1660553088,
+          "WorkStateId": "Open"
+        }
+      ]
+    }
+  }
+]

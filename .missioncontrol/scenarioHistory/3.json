@@ -1,0 +1,19 @@
+[
+  {
+    "UserName": "lewis.pettifer@bluefruit.co.uk",
+    "TimeStamp": "2022-08-15T08:43:54.6184193+00:00",
+    "Scenario": {
+      "Tags": [],
+      "LinkedUserStoryIds": [
+        1
+      ],
+      "Id": 3,
+      "Name": "Scenario",
+      "Steps": "",
+      "TestResult": 0,
+      "Questions": [],
+      "Comment": null,
+      "TestTimestamp": ""
+    }
+  }
+]

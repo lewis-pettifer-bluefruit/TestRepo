@@ -1,0 +1,30 @@
+{
+  "Id": 1,
+  "Tags": [],
+  "Description": "",
+  "Rules": [
+    {
+      "Id": 2,
+      "Text": "Rule",
+      "Scenarios": [
+        {
+          "Tags": [],
+          "LinkedUserStoryIds": [
+            1
+          ],
+          "Id": 3,
+          "Name": "Scenario",
+          "Steps": "",
+          "TestResult": 0,
+          "Questions": [],
+          "Comment": null,
+          "TestTimestamp": ""
+        }
+      ],
+      "Questions": [],
+      "Name": "Rule"
+    }
+  ],
+  "Questions": [],
+  "Name": "Feature"
+}

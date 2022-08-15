@@ -1,0 +1,74 @@
+{
+  "Id": "eb38f692-2e52-47b2-9020-aa9d5a737af9",
+  "Name": "Test",
+  "GithubForkAddress": "https://github.com/lewis-pettifer-bluefruit/TestRepo.git",
+  "LocalGitPath": "repo/Test",
+  "Workflow": {
+    "Id": 2,
+    "Name": "Simon",
+    "WorkStates": [
+      {
+        "WorkStateId": 4,
+        "Index": 0,
+        "Name": "Open",
+        "IsTestable": false,
+        "IsDone": false,
+        "WorkflowId": 2,
+        "DefinitionOfDone": []
+      },
+      {
+        "WorkStateId": 5,
+        "Index": 1,
+        "Name": "In Progress",
+        "IsTestable": false,
+        "IsDone": false,
+        "WorkflowId": 2,
+        "DefinitionOfDone": []
+      },
+      {
+        "WorkStateId": 6,
+        "Index": 2,
+        "Name": "In Testing",
+        "IsTestable": true,
+        "IsDone": false,
+        "WorkflowId": 2,
+        "DefinitionOfDone": []
+      },
+      {
+        "WorkStateId": 1048,
+        "Index": 3,
+        "Name": "For Review",
+        "IsTestable": false,
+        "IsDone": false,
+        "WorkflowId": 2,
+        "DefinitionOfDone": []
+      },
+      {
+        "WorkStateId": 7,
+        "Index": 4,
+        "Name": "Done",
+        "IsTestable": false,
+        "IsDone": true,
+        "WorkflowId": 0,
+        "DefinitionOfDone": []
+      }
+    ]
+  },
+  "Sprints": [
+    {
+      "Id": 1000,
+      "Name": "Sprint 1",
+      "StartDate": "2022-08-15T08:38:36.5926304+00:00",
+      "EndDate": "2022-08-29T08:38:36.5926708+00:00",
+      "Feedback": [],
+      "Ratings": [],
+      "IsCompleted": false
+    }
+  ],
+  "UserNames": [
+    "lewis.pettifer@bluefruit.co.uk"
+  ],
+  "EnforceDefinitionOfDone": false,
+  "GithubPRTargetAddress": "https://github.com/lewis-pettifer-bluefruit/TestRepo.git",
+  "FeatureFilesLocation": ""
+}
