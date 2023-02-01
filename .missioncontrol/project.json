@@ -77,7 +77,8 @@
   "UserNames": [
     "lewis.pettifer@bluefruit.co.uk",
     "will.hawkesworth@bluefruit.co.uk",
-    "john.smith@bluefruit.co.uk"
+    "john.smith@bluefruit.co.uk",
+    "fish@fish.com"
   ],
   "EnforceDefinitionOfDone": false,
   "GithubPRTargetAddress": "https://github.com/lewis-pettifer-bluefruit/TestRepo.git",
