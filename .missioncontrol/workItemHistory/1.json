@@ -1,0 +1,122 @@
+[
+  {
+    "UserName": "lewis.pettifer@bluefruit.co.uk",
+    "TimeStamp": "2023-02-01T14:53:05.0601174+00:00",
+    "workItem": {
+      "Id": 1,
+      "Title": "Do something",
+      "Content": "\u003Cp\u003EIm doing something\u003C/p\u003E",
+      "Status": "Planned",
+      "Priority": 0,
+      "Effort": 0,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2023-02-01T14:31:30.1053173+00:00",
+        "EndDate": "2023-02-15T14:31:30.1053177+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [],
+      "Comments": [],
+      "Index": 0,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1675263171,
+          "WorkStateId": "Planned"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "lewis.pettifer@bluefruit.co.uk",
+    "TimeStamp": "2023-02-01T14:53:06.2490617+00:00",
+    "workItem": {
+      "Id": 1,
+      "Title": "Do something",
+      "Content": "\u003Cp\u003EIm doing something\u003C/p\u003E",
+      "Status": "In Progress",
+      "Priority": 0,
+      "Effort": 0,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2023-02-01T14:31:30.1053173+00:00",
+        "EndDate": "2023-02-15T14:31:30.1053177+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [],
+      "Comments": [],
+      "Index": 0,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1675263171,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675263186,
+          "WorkStateId": "In Progress"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "lewis.pettifer@bluefruit.co.uk",
+    "TimeStamp": "2023-02-01T14:53:23.2209371+00:00",
+    "workItem": {
+      "Id": 1,
+      "Title": "Do something",
+      "Content": "\u003Cp\u003EIm doing something\u003C/p\u003E",
+      "Status": "In Progress",
+      "Priority": 3,
+      "Effort": 3,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2023-02-01T14:31:30.1053173+00:00",
+        "EndDate": "2023-02-15T14:31:30.1053177+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [
+        "UX"
+      ],
+      "Comments": [],
+      "Index": 0,
+      "UsersAssigned": [
+        "lewis.pettifer@bluefruit.co.uk"
+      ],
+      "DefinitionOfDoneChecklistItems": [],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1675263171,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675263186,
+          "WorkStateId": "In Progress"
+        }
+      ]
+    }
+  }
+]
