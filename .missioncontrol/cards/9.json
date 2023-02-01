@@ -1,0 +1,38 @@
+{
+  "Id": 9,
+  "Title": "Tech task",
+  "Content": "\u003Cp\u003Ea\u003C/p\u003E",
+  "Status": "In Progress",
+  "Priority": 0,
+  "Effort": 0,
+  "Type": 2,
+  "Sprint": {
+    "Id": 1000,
+    "Name": "Sprint 1",
+    "StartDate": "2023-02-01T14:31:30.1053173+00:00",
+    "EndDate": "2023-02-15T14:31:30.1053177+00:00",
+    "Feedback": [],
+    "Ratings": [],
+    "IsCompleted": false
+  },
+  "LastUpdated": "0001-01-01T00:00:00",
+  "Tags": [
+    "Task"
+  ],
+  "Comments": [],
+  "Index": 1,
+  "UsersAssigned": [],
+  "DefinitionOfDoneChecklistItems": [],
+  "TaskChecklist": [],
+  "AssignedPullRequests": [],
+  "TimeInFlightEntries": [
+    {
+      "EntryTime": 1675263575,
+      "WorkStateId": "Planned"
+    },
+    {
+      "EntryTime": 1675263592,
+      "WorkStateId": "In Progress"
+    }
+  ]
+}
