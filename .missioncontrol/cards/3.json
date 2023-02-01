@@ -1,7 +1,7 @@
 {
   "Id": 3,
   "Title": "Will\u0027s testing card",
-  "Content": "\u003Cp\u003Ewill is actually doing his job\u003C/p\u003E",
+  "Content": "\u003Cp\u003Ewill is actually doing his job\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003E\u003C/p\u003E\u003Cp\u003EThis is a later edit!\u003C/p\u003E",
   "Status": "Ready for testing",
   "Priority": 1,
   "Effort": 1,
@@ -36,6 +36,18 @@
     },
     {
       "EntryTime": 1675263319,
+      "WorkStateId": "Ready for testing"
+    },
+    {
+      "EntryTime": 1675266907,
+      "WorkStateId": "For Review"
+    },
+    {
+      "EntryTime": 1675266908,
+      "WorkStateId": "In Testing"
+    },
+    {
+      "EntryTime": 1675266909,
       "WorkStateId": "Ready for testing"
     }
   ]

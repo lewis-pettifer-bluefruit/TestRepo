@@ -14,7 +14,9 @@
         "IsTestable": false,
         "IsDone": false,
         "WorkflowId": 3,
-        "DefinitionOfDone": []
+        "DefinitionOfDone": [
+          "Have effort points been assigned"
+        ]
       },
       {
         "WorkStateId": 11,
@@ -23,7 +25,9 @@
         "IsTestable": false,
         "IsDone": false,
         "WorkflowId": 3,
-        "DefinitionOfDone": []
+        "DefinitionOfDone": [
+          "Tick me"
+        ]
       },
       {
         "WorkStateId": 12,
@@ -65,6 +69,15 @@
   },
   "Sprints": [
     {
+      "Id": 1003,
+      "Name": "BackLog",
+      "StartDate": "2023-01-01T00:00:00",
+      "EndDate": "2023-01-02T00:00:00",
+      "Feedback": [],
+      "Ratings": [],
+      "IsCompleted": false
+    },
+    {
       "Id": 1000,
       "Name": "Sprint 1",
       "StartDate": "2023-02-01T14:31:30.1053173+00:00",
@@ -90,15 +103,6 @@
       "Feedback": [],
       "Ratings": [],
       "IsCompleted": false
-    },
-    {
-      "Id": 1003,
-      "Name": "BackLog",
-      "StartDate": "2023-01-01T00:00:00",
-      "EndDate": "2023-01-02T00:00:00",
-      "Feedback": [],
-      "Ratings": [],
-      "IsCompleted": false
     }
   ],
   "UserNames": [
@@ -107,7 +111,7 @@
     "john.smith@bluefruit.co.uk",
     "fish@fish.com"
   ],
-  "EnforceDefinitionOfDone": false,
+  "EnforceDefinitionOfDone": true,
   "GithubPRTargetAddress": "https://github.com/lewis-pettifer-bluefruit/TestRepo.git",
   "FeatureFilesLocation": ""
 }

@@ -20,7 +20,7 @@
     "Backend"
   ],
   "Comments": [],
-  "Index": 0,
+  "Index": 1,
   "UsersAssigned": [
     "john.smith@bluefruit.co.uk"
   ],
@@ -50,6 +50,14 @@
     },
     {
       "EntryTime": 1675263279,
+      "WorkStateId": "For Review"
+    },
+    {
+      "EntryTime": 1675266865,
+      "WorkStateId": "In Testing"
+    },
+    {
+      "EntryTime": 1675266866,
       "WorkStateId": "For Review"
     }
   ]

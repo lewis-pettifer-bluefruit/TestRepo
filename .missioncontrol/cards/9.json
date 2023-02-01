@@ -33,6 +33,22 @@
     {
       "EntryTime": 1675263592,
       "WorkStateId": "In Progress"
+    },
+    {
+      "EntryTime": 1675266872,
+      "WorkStateId": "For Review"
+    },
+    {
+      "EntryTime": 1675266873,
+      "WorkStateId": "In Progress"
+    },
+    {
+      "EntryTime": 1675266893,
+      "WorkStateId": "Ready for testing"
+    },
+    {
+      "EntryTime": 1675266894,
+      "WorkStateId": "In Progress"
     }
   ]
 }
