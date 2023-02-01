@@ -1,0 +1,84 @@
+{
+  "Id": "5240aaa9-9ea4-4072-9c1c-572209d3356c",
+  "Name": "UX peer session project",
+  "GithubForkAddress": "https://github.com/lewis-pettifer-bluefruit/TestRepo.git",
+  "LocalGitPath": "repo/UXpeersessionproject",
+  "Workflow": {
+    "Id": 3,
+    "Name": "Clonetrol",
+    "WorkStates": [
+      {
+        "WorkStateId": 10,
+        "Index": 0,
+        "Name": "Planned",
+        "IsTestable": false,
+        "IsDone": false,
+        "WorkflowId": 3,
+        "DefinitionOfDone": []
+      },
+      {
+        "WorkStateId": 11,
+        "Index": 1,
+        "Name": "In Progress",
+        "IsTestable": false,
+        "IsDone": false,
+        "WorkflowId": 3,
+        "DefinitionOfDone": []
+      },
+      {
+        "WorkStateId": 12,
+        "Index": 2,
+        "Name": "For Review",
+        "IsTestable": false,
+        "IsDone": false,
+        "WorkflowId": 3,
+        "DefinitionOfDone": []
+      },
+      {
+        "WorkStateId": 13,
+        "Index": 3,
+        "Name": "In Testing",
+        "IsTestable": true,
+        "IsDone": false,
+        "WorkflowId": 3,
+        "DefinitionOfDone": []
+      },
+      {
+        "WorkStateId": 1064,
+        "Index": 4,
+        "Name": "Ready for testing",
+        "IsTestable": false,
+        "IsDone": false,
+        "WorkflowId": 3,
+        "DefinitionOfDone": []
+      },
+      {
+        "WorkStateId": 14,
+        "Index": 5,
+        "Name": "Done",
+        "IsTestable": false,
+        "IsDone": true,
+        "WorkflowId": 0,
+        "DefinitionOfDone": []
+      }
+    ]
+  },
+  "Sprints": [
+    {
+      "Id": 1000,
+      "Name": "Sprint 1",
+      "StartDate": "2023-02-01T14:31:30.1053173+00:00",
+      "EndDate": "2023-02-15T14:31:30.1053177+00:00",
+      "Feedback": [],
+      "Ratings": [],
+      "IsCompleted": false
+    }
+  ],
+  "UserNames": [
+    "lewis.pettifer@bluefruit.co.uk",
+    "will.hawkesworth@bluefruit.co.uk"
+  ],
+  "EnforceDefinitionOfDone": false,
+  "GithubPRTargetAddress": "https://github.com/lewis-pettifer-bluefruit/TestRepo.git",
+  "FeatureFilesLocation": ""
+}
