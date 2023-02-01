@@ -1,0 +1,40 @@
+[
+  {
+    "UserName": "lewis.pettifer@bluefruit.co.uk",
+    "TimeStamp": "2023-02-01T15:56:37.7858465+00:00",
+    "workItem": {
+      "Id": 11,
+      "Title": "Future ux work",
+      "Content": "\u003Cp\u003Eux work here\u003C/p\u003E",
+      "Status": "Planned",
+      "Priority": 0,
+      "Effort": 0,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1001,
+        "Name": "Sprint 2",
+        "StartDate": "2023-02-16T00:00:00",
+        "EndDate": "2023-02-23T00:00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [
+        "UX"
+      ],
+      "Comments": [],
+      "Index": 0,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1675266979,
+          "WorkStateId": "Planned"
+        }
+      ]
+    }
+  }
+]

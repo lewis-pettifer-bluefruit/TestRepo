@@ -1,0 +1,34 @@
+{
+  "Id": 12,
+  "Title": "Final UX work",
+  "Content": "\u003Cp\u003Estuff\u003C/p\u003E",
+  "Status": "Planned",
+  "Priority": 0,
+  "Effort": 0,
+  "Type": 0,
+  "Sprint": {
+    "Id": 1002,
+    "Name": "Sprint 3",
+    "StartDate": "2023-02-24T00:00:00",
+    "EndDate": "2023-03-07T00:00:00",
+    "Feedback": [],
+    "Ratings": [],
+    "IsCompleted": false
+  },
+  "LastUpdated": "0001-01-01T00:00:00",
+  "Tags": [
+    "UX"
+  ],
+  "Comments": [],
+  "Index": 0,
+  "UsersAssigned": [],
+  "DefinitionOfDoneChecklistItems": [],
+  "TaskChecklist": [],
+  "AssignedPullRequests": [],
+  "TimeInFlightEntries": [
+    {
+      "EntryTime": 1675267000,
+      "WorkStateId": "Planned"
+    }
+  ]
+}
