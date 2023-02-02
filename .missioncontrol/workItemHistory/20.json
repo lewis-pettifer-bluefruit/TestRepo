@@ -1,0 +1,1440 @@
+[
+  {
+    "UserName": "fish@fish.com",
+    "TimeStamp": "2023-02-02T11:45:42.8484875+00:00",
+    "workItem": {
+      "Id": 20,
+      "Title": "Is this the title?",
+      "Content": "\u003Cp\u003ESome description\u003C/p\u003E",
+      "Status": "Planned",
+      "Priority": 0,
+      "Effort": 100,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2023-02-01T14:31:30.1053173+00:00",
+        "EndDate": "2023-02-15T14:31:30.1053177+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [],
+      "Comments": [],
+      "Index": 6,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1675338191,
+          "WorkStateId": "Planned"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "fish@fish.com",
+    "TimeStamp": "2023-02-02T11:46:10.9617653+00:00",
+    "workItem": {
+      "Id": 20,
+      "Title": "Is this the title?",
+      "Content": "\u003Cp\u003ESome description\u003C/p\u003E",
+      "Status": "Planned",
+      "Priority": 0,
+      "Effort": 100,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2023-02-01T14:31:30.1053173+00:00",
+        "EndDate": "2023-02-15T14:31:30.1053177+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [
+        "JosCard"
+      ],
+      "Comments": [],
+      "Index": 6,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1675338191,
+          "WorkStateId": "Planned"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "fish@fish.com",
+    "TimeStamp": "2023-02-02T11:47:14.5262483+00:00",
+    "workItem": {
+      "Id": 20,
+      "Title": "Is this the title?",
+      "Content": "\u003Cp\u003ESome description\u003C/p\u003E",
+      "Status": "Planned",
+      "Priority": 0,
+      "Effort": 100,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2023-02-01T14:31:30.1053173+00:00",
+        "EndDate": "2023-02-15T14:31:30.1053177+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [
+        "JosCard"
+      ],
+      "Comments": [],
+      "Index": 6,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [
+        {
+          "WorkState": "Planned",
+          "ChecklistItem": "Have effort points been assigned",
+          "State": true,
+          "Comment": ""
+        }
+      ],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1675338191,
+          "WorkStateId": "Planned"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "fish@fish.com",
+    "TimeStamp": "2023-02-02T11:47:20.9997485+00:00",
+    "workItem": {
+      "Id": 20,
+      "Title": "Is this the title?",
+      "Content": "\u003Cp\u003ESome description\u003C/p\u003E",
+      "Status": "In Progress",
+      "Priority": 0,
+      "Effort": 100,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2023-02-01T14:31:30.1053173+00:00",
+        "EndDate": "2023-02-15T14:31:30.1053177+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [
+        "JosCard"
+      ],
+      "Comments": [],
+      "Index": 1,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [
+        {
+          "WorkState": "Planned",
+          "ChecklistItem": "Have effort points been assigned",
+          "State": true,
+          "Comment": ""
+        }
+      ],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1675338191,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338440,
+          "WorkStateId": "In Progress"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "fish@fish.com",
+    "TimeStamp": "2023-02-02T11:48:03.6592039+00:00",
+    "workItem": {
+      "Id": 20,
+      "Title": "Is this the title?",
+      "Content": "\u003Cp\u003ESome description\u003C/p\u003E",
+      "Status": "Planned",
+      "Priority": 0,
+      "Effort": 100,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2023-02-01T14:31:30.1053173+00:00",
+        "EndDate": "2023-02-15T14:31:30.1053177+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [
+        "JosCard"
+      ],
+      "Comments": [],
+      "Index": 3,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [
+        {
+          "WorkState": "Planned",
+          "ChecklistItem": "Have effort points been assigned",
+          "State": true,
+          "Comment": ""
+        }
+      ],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1675338191,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338440,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1675338483,
+          "WorkStateId": "Planned"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "fish@fish.com",
+    "TimeStamp": "2023-02-02T11:48:22.3246249+00:00",
+    "workItem": {
+      "Id": 20,
+      "Title": "Is this the title?",
+      "Content": "\u003Cp\u003ESome description\u003C/p\u003E",
+      "Status": "In Progress",
+      "Priority": 0,
+      "Effort": 100,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2023-02-01T14:31:30.1053173+00:00",
+        "EndDate": "2023-02-15T14:31:30.1053177+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [
+        "JosCard"
+      ],
+      "Comments": [],
+      "Index": 3,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [
+        {
+          "WorkState": "Planned",
+          "ChecklistItem": "Have effort points been assigned",
+          "State": true,
+          "Comment": ""
+        }
+      ],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1675338191,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338440,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1675338483,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338502,
+          "WorkStateId": "In Progress"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "fish@fish.com",
+    "TimeStamp": "2023-02-02T11:49:19.1475507+00:00",
+    "workItem": {
+      "Id": 20,
+      "Title": "Is this the title?",
+      "Content": "\u003Cp\u003ESome description\u003C/p\u003E",
+      "Status": "In Progress",
+      "Priority": 0,
+      "Effort": 100,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2023-02-01T14:31:30.1053173+00:00",
+        "EndDate": "2023-02-15T14:31:30.1053177+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [
+        "JosCard"
+      ],
+      "Comments": [],
+      "Index": 3,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [
+        {
+          "WorkState": "Planned",
+          "ChecklistItem": "Have effort points been assigned",
+          "State": true,
+          "Comment": ""
+        }
+      ],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1675338191,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338440,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1675338483,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338502,
+          "WorkStateId": "In Progress"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "fish@fish.com",
+    "TimeStamp": "2023-02-02T11:49:27.8072396+00:00",
+    "workItem": {
+      "Id": 20,
+      "Title": "Is this the title?",
+      "Content": "\u003Cp\u003ESome description\u003C/p\u003E",
+      "Status": "In Progress",
+      "Priority": 0,
+      "Effort": 0,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2023-02-01T14:31:30.1053173+00:00",
+        "EndDate": "2023-02-15T14:31:30.1053177+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [
+        "JosCard"
+      ],
+      "Comments": [],
+      "Index": 3,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [
+        {
+          "WorkState": "Planned",
+          "ChecklistItem": "Have effort points been assigned",
+          "State": true,
+          "Comment": ""
+        }
+      ],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1675338191,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338440,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1675338483,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338502,
+          "WorkStateId": "In Progress"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "fish@fish.com",
+    "TimeStamp": "2023-02-02T11:49:43.9064117+00:00",
+    "workItem": {
+      "Id": 20,
+      "Title": "Is this the title?",
+      "Content": "\u003Cp\u003ESome description\u003C/p\u003E",
+      "Status": "Planned",
+      "Priority": 0,
+      "Effort": 0,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2023-02-01T14:31:30.1053173+00:00",
+        "EndDate": "2023-02-15T14:31:30.1053177+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [
+        "JosCard"
+      ],
+      "Comments": [],
+      "Index": 5,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [
+        {
+          "WorkState": "Planned",
+          "ChecklistItem": "Have effort points been assigned",
+          "State": true,
+          "Comment": ""
+        }
+      ],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1675338191,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338440,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1675338483,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338502,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1675338583,
+          "WorkStateId": "Planned"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "fish@fish.com",
+    "TimeStamp": "2023-02-02T11:50:00.57594+00:00",
+    "workItem": {
+      "Id": 20,
+      "Title": "Is this the title?",
+      "Content": "\u003Cp\u003ESome description\u003C/p\u003E",
+      "Status": "Planned",
+      "Priority": 0,
+      "Effort": 0,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2023-02-01T14:31:30.1053173+00:00",
+        "EndDate": "2023-02-15T14:31:30.1053177+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [
+        "JosCard"
+      ],
+      "Comments": [],
+      "Index": 5,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [
+        {
+          "WorkState": "Planned",
+          "ChecklistItem": "Have effort points been assigned",
+          "State": false,
+          "Comment": ""
+        }
+      ],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1675338191,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338440,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1675338483,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338502,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1675338583,
+          "WorkStateId": "Planned"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "fish@fish.com",
+    "TimeStamp": "2023-02-02T11:50:23.3546425+00:00",
+    "workItem": {
+      "Id": 20,
+      "Title": "Is this the title?",
+      "Content": "\u003Cp\u003ESome description\u003C/p\u003E",
+      "Status": "Planned",
+      "Priority": 0,
+      "Effort": 0,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2023-02-01T14:31:30.1053173+00:00",
+        "EndDate": "2023-02-15T14:31:30.1053177+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [
+        "JosCard"
+      ],
+      "Comments": [],
+      "Index": 5,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [
+        {
+          "WorkState": "Planned",
+          "ChecklistItem": "Have effort points been assigned",
+          "State": true,
+          "Comment": ""
+        }
+      ],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1675338191,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338440,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1675338483,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338502,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1675338583,
+          "WorkStateId": "Planned"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "fish@fish.com",
+    "TimeStamp": "2023-02-02T11:50:37.5155967+00:00",
+    "workItem": {
+      "Id": 20,
+      "Title": "Is this the title?",
+      "Content": "\u003Cp\u003ESome description\u003C/p\u003E",
+      "Status": "Planned",
+      "Priority": 0,
+      "Effort": 100,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2023-02-01T14:31:30.1053173+00:00",
+        "EndDate": "2023-02-15T14:31:30.1053177+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [
+        "JosCard"
+      ],
+      "Comments": [],
+      "Index": 5,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [
+        {
+          "WorkState": "Planned",
+          "ChecklistItem": "Have effort points been assigned",
+          "State": true,
+          "Comment": ""
+        }
+      ],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1675338191,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338440,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1675338483,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338502,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1675338583,
+          "WorkStateId": "Planned"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "fish@fish.com",
+    "TimeStamp": "2023-02-02T11:50:44.7761208+00:00",
+    "workItem": {
+      "Id": 20,
+      "Title": "Is this the title?",
+      "Content": "\u003Cp\u003ESome description\u003C/p\u003E",
+      "Status": "Planned",
+      "Priority": 0,
+      "Effort": 100,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2023-02-01T14:31:30.1053173+00:00",
+        "EndDate": "2023-02-15T14:31:30.1053177+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [
+        "JosCard"
+      ],
+      "Comments": [],
+      "Index": 5,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [
+        {
+          "WorkState": "Planned",
+          "ChecklistItem": "Have effort points been assigned",
+          "State": true,
+          "Comment": ""
+        }
+      ],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1675338191,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338440,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1675338483,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338502,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1675338583,
+          "WorkStateId": "Planned"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "fish@fish.com",
+    "TimeStamp": "2023-02-02T11:50:48.0050237+00:00",
+    "workItem": {
+      "Id": 20,
+      "Title": "Is this the title?",
+      "Content": "\u003Cp\u003ESome description\u003C/p\u003E",
+      "Status": "In Progress",
+      "Priority": 0,
+      "Effort": 100,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2023-02-01T14:31:30.1053173+00:00",
+        "EndDate": "2023-02-15T14:31:30.1053177+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [
+        "JosCard"
+      ],
+      "Comments": [],
+      "Index": 2,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [
+        {
+          "WorkState": "Planned",
+          "ChecklistItem": "Have effort points been assigned",
+          "State": true,
+          "Comment": ""
+        }
+      ],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1675338191,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338440,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1675338483,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338502,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1675338583,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338648,
+          "WorkStateId": "In Progress"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "fish@fish.com",
+    "TimeStamp": "2023-02-02T11:50:56.2098642+00:00",
+    "workItem": {
+      "Id": 20,
+      "Title": "Is this the title?",
+      "Content": "\u003Cp\u003ESome description\u003C/p\u003E",
+      "Status": "In Progress",
+      "Priority": 0,
+      "Effort": 100,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2023-02-01T14:31:30.1053173+00:00",
+        "EndDate": "2023-02-15T14:31:30.1053177+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [
+        "JosCard"
+      ],
+      "Comments": [],
+      "Index": 2,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [
+        {
+          "WorkState": "Planned",
+          "ChecklistItem": "Have effort points been assigned",
+          "State": true,
+          "Comment": ""
+        },
+        {
+          "WorkState": "In Progress",
+          "ChecklistItem": "Tick me",
+          "State": true,
+          "Comment": ""
+        }
+      ],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1675338191,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338440,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1675338483,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338502,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1675338583,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338648,
+          "WorkStateId": "In Progress"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "fish@fish.com",
+    "TimeStamp": "2023-02-02T11:50:59.053875+00:00",
+    "workItem": {
+      "Id": 20,
+      "Title": "Is this the title?",
+      "Content": "\u003Cp\u003ESome description\u003C/p\u003E",
+      "Status": "For Review",
+      "Priority": 0,
+      "Effort": 100,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2023-02-01T14:31:30.1053173+00:00",
+        "EndDate": "2023-02-15T14:31:30.1053177+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [
+        "JosCard"
+      ],
+      "Comments": [],
+      "Index": 2,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [
+        {
+          "WorkState": "Planned",
+          "ChecklistItem": "Have effort points been assigned",
+          "State": true,
+          "Comment": ""
+        },
+        {
+          "WorkState": "In Progress",
+          "ChecklistItem": "Tick me",
+          "State": true,
+          "Comment": ""
+        }
+      ],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1675338191,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338440,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1675338483,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338502,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1675338583,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338648,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1675338659,
+          "WorkStateId": "For Review"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "fish@fish.com",
+    "TimeStamp": "2023-02-02T11:51:20.797461+00:00",
+    "workItem": {
+      "Id": 20,
+      "Title": "Is this the title?",
+      "Content": "\u003Cp\u003ESome description\u003C/p\u003E",
+      "Status": "In Testing",
+      "Priority": 0,
+      "Effort": 100,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2023-02-01T14:31:30.1053173+00:00",
+        "EndDate": "2023-02-15T14:31:30.1053177+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [
+        "JosCard"
+      ],
+      "Comments": [],
+      "Index": 0,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [
+        {
+          "WorkState": "Planned",
+          "ChecklistItem": "Have effort points been assigned",
+          "State": true,
+          "Comment": ""
+        },
+        {
+          "WorkState": "In Progress",
+          "ChecklistItem": "Tick me",
+          "State": true,
+          "Comment": ""
+        }
+      ],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1675338191,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338440,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1675338483,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338502,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1675338583,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338648,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1675338659,
+          "WorkStateId": "For Review"
+        },
+        {
+          "EntryTime": 1675338680,
+          "WorkStateId": "In Testing"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "fish@fish.com",
+    "TimeStamp": "2023-02-02T11:51:22.435771+00:00",
+    "workItem": {
+      "Id": 20,
+      "Title": "Is this the title?",
+      "Content": "\u003Cp\u003ESome description\u003C/p\u003E",
+      "Status": "Ready for testing",
+      "Priority": 0,
+      "Effort": 100,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2023-02-01T14:31:30.1053173+00:00",
+        "EndDate": "2023-02-15T14:31:30.1053177+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [
+        "JosCard"
+      ],
+      "Comments": [],
+      "Index": 1,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [
+        {
+          "WorkState": "Planned",
+          "ChecklistItem": "Have effort points been assigned",
+          "State": true,
+          "Comment": ""
+        },
+        {
+          "WorkState": "In Progress",
+          "ChecklistItem": "Tick me",
+          "State": true,
+          "Comment": ""
+        }
+      ],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1675338191,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338440,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1675338483,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338502,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1675338583,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338648,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1675338659,
+          "WorkStateId": "For Review"
+        },
+        {
+          "EntryTime": 1675338680,
+          "WorkStateId": "In Testing"
+        },
+        {
+          "EntryTime": 1675338682,
+          "WorkStateId": "Ready for testing"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "fish@fish.com",
+    "TimeStamp": "2023-02-02T11:51:24.3092579+00:00",
+    "workItem": {
+      "Id": 20,
+      "Title": "Is this the title?",
+      "Content": "\u003Cp\u003ESome description\u003C/p\u003E",
+      "Status": "In Testing",
+      "Priority": 0,
+      "Effort": 100,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2023-02-01T14:31:30.1053173+00:00",
+        "EndDate": "2023-02-15T14:31:30.1053177+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [
+        "JosCard"
+      ],
+      "Comments": [],
+      "Index": 0,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [
+        {
+          "WorkState": "Planned",
+          "ChecklistItem": "Have effort points been assigned",
+          "State": true,
+          "Comment": ""
+        },
+        {
+          "WorkState": "In Progress",
+          "ChecklistItem": "Tick me",
+          "State": true,
+          "Comment": ""
+        }
+      ],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1675338191,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338440,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1675338483,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338502,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1675338583,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338648,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1675338659,
+          "WorkStateId": "For Review"
+        },
+        {
+          "EntryTime": 1675338680,
+          "WorkStateId": "In Testing"
+        },
+        {
+          "EntryTime": 1675338682,
+          "WorkStateId": "Ready for testing"
+        },
+        {
+          "EntryTime": 1675338684,
+          "WorkStateId": "In Testing"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "fish@fish.com",
+    "TimeStamp": "2023-02-02T11:51:30.7855821+00:00",
+    "workItem": {
+      "Id": 20,
+      "Title": "Is this the title?",
+      "Content": "\u003Cp\u003ESome description\u003C/p\u003E",
+      "Status": "Ready for testing",
+      "Priority": 0,
+      "Effort": 100,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2023-02-01T14:31:30.1053173+00:00",
+        "EndDate": "2023-02-15T14:31:30.1053177+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [
+        "JosCard"
+      ],
+      "Comments": [],
+      "Index": 1,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [
+        {
+          "WorkState": "Planned",
+          "ChecklistItem": "Have effort points been assigned",
+          "State": true,
+          "Comment": ""
+        },
+        {
+          "WorkState": "In Progress",
+          "ChecklistItem": "Tick me",
+          "State": true,
+          "Comment": ""
+        }
+      ],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1675338191,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338440,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1675338483,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338502,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1675338583,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338648,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1675338659,
+          "WorkStateId": "For Review"
+        },
+        {
+          "EntryTime": 1675338680,
+          "WorkStateId": "In Testing"
+        },
+        {
+          "EntryTime": 1675338682,
+          "WorkStateId": "Ready for testing"
+        },
+        {
+          "EntryTime": 1675338684,
+          "WorkStateId": "In Testing"
+        },
+        {
+          "EntryTime": 1675338690,
+          "WorkStateId": "Ready for testing"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "fish@fish.com",
+    "TimeStamp": "2023-02-02T11:51:32.1304509+00:00",
+    "workItem": {
+      "Id": 20,
+      "Title": "Is this the title?",
+      "Content": "\u003Cp\u003ESome description\u003C/p\u003E",
+      "Status": "Done",
+      "Priority": 0,
+      "Effort": 100,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2023-02-01T14:31:30.1053173+00:00",
+        "EndDate": "2023-02-15T14:31:30.1053177+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [
+        "JosCard"
+      ],
+      "Comments": [],
+      "Index": 2,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [
+        {
+          "WorkState": "Planned",
+          "ChecklistItem": "Have effort points been assigned",
+          "State": true,
+          "Comment": ""
+        },
+        {
+          "WorkState": "In Progress",
+          "ChecklistItem": "Tick me",
+          "State": true,
+          "Comment": ""
+        }
+      ],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1675338191,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338440,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1675338483,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338502,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1675338583,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338648,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1675338659,
+          "WorkStateId": "For Review"
+        },
+        {
+          "EntryTime": 1675338680,
+          "WorkStateId": "In Testing"
+        },
+        {
+          "EntryTime": 1675338682,
+          "WorkStateId": "Ready for testing"
+        },
+        {
+          "EntryTime": 1675338684,
+          "WorkStateId": "In Testing"
+        },
+        {
+          "EntryTime": 1675338690,
+          "WorkStateId": "Ready for testing"
+        },
+        {
+          "EntryTime": 1675338692,
+          "WorkStateId": "Done"
+        }
+      ]
+    }
+  },
+  {
+    "UserName": "fish@fish.com",
+    "TimeStamp": "2023-02-02T11:54:46.8509211+00:00",
+    "workItem": {
+      "Id": 20,
+      "Title": "Is this the title?",
+      "Content": "\u003Cp\u003ESome description\u003C/p\u003E",
+      "Status": "Done",
+      "Priority": 0,
+      "Effort": 100,
+      "Type": 0,
+      "Sprint": {
+        "Id": 1000,
+        "Name": "Sprint 1",
+        "StartDate": "2023-02-01T14:31:30.1053173+00:00",
+        "EndDate": "2023-02-15T14:31:30.1053177+00:00",
+        "Feedback": [],
+        "Ratings": [],
+        "IsCompleted": false
+      },
+      "LastUpdated": "0001-01-01T00:00:00",
+      "Tags": [
+        "JosCard"
+      ],
+      "Comments": [],
+      "Index": 2,
+      "UsersAssigned": [],
+      "DefinitionOfDoneChecklistItems": [
+        {
+          "WorkState": "Planned",
+          "ChecklistItem": "Have effort points been assigned",
+          "State": true,
+          "Comment": ""
+        },
+        {
+          "WorkState": "In Progress",
+          "ChecklistItem": "Tick me",
+          "State": true,
+          "Comment": ""
+        }
+      ],
+      "TaskChecklist": [],
+      "AssignedPullRequests": [],
+      "TimeInFlightEntries": [
+        {
+          "EntryTime": 1675338191,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338440,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1675338483,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338502,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1675338583,
+          "WorkStateId": "Planned"
+        },
+        {
+          "EntryTime": 1675338648,
+          "WorkStateId": "In Progress"
+        },
+        {
+          "EntryTime": 1675338659,
+          "WorkStateId": "For Review"
+        },
+        {
+          "EntryTime": 1675338680,
+          "WorkStateId": "In Testing"
+        },
+        {
+          "EntryTime": 1675338682,
+          "WorkStateId": "Ready for testing"
+        },
+        {
+          "EntryTime": 1675338684,
+          "WorkStateId": "In Testing"
+        },
+        {
+          "EntryTime": 1675338690,
+          "WorkStateId": "Ready for testing"
+        },
+        {
+          "EntryTime": 1675338692,
+          "WorkStateId": "Done"
+        }
+      ]
+    }
+  }
+]

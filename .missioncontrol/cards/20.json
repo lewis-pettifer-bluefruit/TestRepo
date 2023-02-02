@@ -1,10 +1,10 @@
 {
-  "Id": 17,
-  "Title": "Any\u0027olTag",
-  "Content": "\u003Cp\u003ESome text\u003C/p\u003E\u003Cp\u003E\u003Cbr\u003E\u003C/p\u003E",
-  "Status": "Ready for testing",
+  "Id": 20,
+  "Title": "Is this the title?",
+  "Content": "\u003Cp\u003ESome description\u003C/p\u003E",
+  "Status": "Done",
   "Priority": 0,
-  "Effort": 10,
+  "Effort": 100,
   "Type": 0,
   "Sprint": {
     "Id": 1000,
@@ -17,66 +17,75 @@
   },
   "LastUpdated": "0001-01-01T00:00:00",
   "Tags": [
-    "Deeznhuts"
+    "JosCard"
   ],
   "Comments": [],
-  "Index": 1,
-  "UsersAssigned": [
-    "will.hawkesworth@bluefruit.co.uk",
-    "lewis.pettifer@bluefruit.co.uk",
-    "john.smith@bluefruit.co.uk",
-    "fish@fish.com"
-  ],
+  "Index": 2,
+  "UsersAssigned": [],
   "DefinitionOfDoneChecklistItems": [
     {
       "WorkState": "Planned",
       "ChecklistItem": "Have effort points been assigned",
       "State": true,
-      "Comment": "This card must be flip turned upsidedown\n"
+      "Comment": ""
     },
     {
       "WorkState": "In Progress",
       "ChecklistItem": "Tick me",
       "State": true,
-      "Comment": "izz done\n"
+      "Comment": ""
     }
   ],
-  "TaskChecklist": [
-    {
-      "TaskName": "This card need to be worked on",
-      "IsCompleted": false,
-      "Index": 0
-    }
-  ],
+  "TaskChecklist": [],
   "AssignedPullRequests": [],
   "TimeInFlightEntries": [
     {
-      "EntryTime": 1675338179,
+      "EntryTime": 1675338191,
       "WorkStateId": "Planned"
     },
     {
-      "EntryTime": 1675338569,
+      "EntryTime": 1675338440,
       "WorkStateId": "In Progress"
     },
     {
-      "EntryTime": 1675338774,
+      "EntryTime": 1675338483,
+      "WorkStateId": "Planned"
+    },
+    {
+      "EntryTime": 1675338502,
+      "WorkStateId": "In Progress"
+    },
+    {
+      "EntryTime": 1675338583,
+      "WorkStateId": "Planned"
+    },
+    {
+      "EntryTime": 1675338648,
+      "WorkStateId": "In Progress"
+    },
+    {
+      "EntryTime": 1675338659,
       "WorkStateId": "For Review"
     },
     {
-      "EntryTime": 1675338775,
+      "EntryTime": 1675338680,
       "WorkStateId": "In Testing"
     },
     {
-      "EntryTime": 1675338779,
+      "EntryTime": 1675338682,
       "WorkStateId": "Ready for testing"
     },
     {
-      "EntryTime": 1675338780,
+      "EntryTime": 1675338684,
+      "WorkStateId": "In Testing"
+    },
+    {
+      "EntryTime": 1675338690,
+      "WorkStateId": "Ready for testing"
+    },
+    {
+      "EntryTime": 1675338692,
       "WorkStateId": "Done"
-    },
-    {
-      "EntryTime": 1675338784,
-      "WorkStateId": "Ready for testing"
     }
   ]
 }
