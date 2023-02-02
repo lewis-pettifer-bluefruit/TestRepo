@@ -2,7 +2,7 @@
   "Id": 9,
   "Title": "Tech task",
   "Content": "\u003Cp\u003Ea\u003C/p\u003E",
-  "Status": "In Progress",
+  "Status": "Planned",
   "Priority": 0,
   "Effort": 0,
   "Type": 2,
@@ -20,7 +20,7 @@
     "Task"
   ],
   "Comments": [],
-  "Index": 1,
+  "Index": 2,
   "UsersAssigned": [],
   "DefinitionOfDoneChecklistItems": [],
   "TaskChecklist": [],
@@ -49,6 +49,18 @@
     {
       "EntryTime": 1675266894,
       "WorkStateId": "In Progress"
+    },
+    {
+      "EntryTime": 1675338143,
+      "WorkStateId": "For Review"
+    },
+    {
+      "EntryTime": 1675338145,
+      "WorkStateId": "In Progress"
+    },
+    {
+      "EntryTime": 1675338147,
+      "WorkStateId": "Planned"
     }
   ]
 }
