@@ -1,0 +1,12 @@
+[
+  {
+    "UserName": "fish@fish.com",
+    "TimeStamp": "2023-02-02T12:00:14.9735152+00:00",
+    "Rule": {
+      "Id": 2,
+      "Text": "The fight must happen",
+      "Scenarios": []
+    },
+    "FeatureId": 1
+  }
+]

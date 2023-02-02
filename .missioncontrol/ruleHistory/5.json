@@ -1,0 +1,33 @@
+[
+  {
+    "UserName": "will.hawkesworth@bluefruit.co.uk",
+    "TimeStamp": "2023-02-02T12:01:17.1044791+00:00",
+    "Rule": {
+      "Id": 5,
+      "Text": "When the fight has finished, everyone should go home.",
+      "Scenarios": []
+    },
+    "FeatureId": 1
+  },
+  {
+    "UserName": "fish@fish.com",
+    "TimeStamp": "2023-02-02T12:01:56.4639805+00:00",
+    "Rule": {
+      "Id": 5,
+      "Text": "When the fight has finished, everyone should go home.",
+      "Scenarios": [
+        {
+          "Tags": [],
+          "LinkedUserStoryIds": [],
+          "Id": 6,
+          "Name": "How to put the bits in a box?",
+          "Steps": "scope em up",
+          "TestResult": 0,
+          "Comment": null,
+          "TestTimestamp": ""
+        }
+      ]
+    },
+    "FeatureId": 1
+  }
+]
